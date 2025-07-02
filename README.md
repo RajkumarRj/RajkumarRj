@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **get placement in FAANG**
 
-- 👨‍💻 All of my projects are available at [__loading__](__loading__)
+- 👨‍💻 All of my projects are available at [__loading__](https://portfolio-portfolio-portfolio.netlify.app/)
 
 - 📫 How to reach me **rajpersonale@gmail.com**
 
